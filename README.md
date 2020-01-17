@@ -14,8 +14,8 @@ Assumptions:
 - 120 Ohms impedance
 - 2x 120 Ohms termination resistors
 - 2x20m CAN bus wires going from the transceiver to each terminating resistor
-- Signal speed 200'000 km /s -> 5ns/m 
-  - Signal delay time 0.1 us for 20m (used in tline)
+- Signal speed 200'000 km/s -> 5ns/m 
+  - Signal delay time 0.1&mu;s for 20m (used in tline)
 
 The CAN transceiver is modelled as two square wave generators. Onne for CAN high and one for CAN low
 ![png](LTspice/can_bus_wiring.png)
