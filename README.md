@@ -1,6 +1,6 @@
-# Simulating CAN Bus Wiring with LTspice and iCircuit
+# Simulating CAN bus wiring with LTspice and iCircuit
 
-#### The primary motivation was to explain the overshooting I see from time to time when troubleshooting CAN Bus networks
+#### The primary motivation was to explain the overshooting and ringing I see from time to time when troubleshooting CAN bus networks
 
 
 #### To anticipate it, the preferred tool is LTspice due to significantly better accuracy.
@@ -33,5 +33,5 @@ The appropriate FFT
 
 ![png](iCircuit/can_bus_simple.png)
 
-#### This simulation should be taken with a grain of salt as the accuracy of iCircuit seems to be limited at higher frequencies!
+#### This simulation should be taken with a grain of salt as the accuracy of iCircuit seems to be very limited at higher frequencies!
 #### I was also not able to figure out how to improve the simulation accuracy or decrease Tstep
