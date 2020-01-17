@@ -34,7 +34,7 @@ The CAN transceiver is modelled as two square wave generators. Onne for CAN high
 
 The appropriate FFT
 
-![png](/Users/markstein/prj/can_bus_sim/LTspice/strong_disturbances/can_bus_wiring_strong_disturbances.fft.png)
+![png](LTspice/strong_disturbances/can_bus_wiring_strong_disturbances.fft.png)
 
 ## Simulation with iCircuit
 
