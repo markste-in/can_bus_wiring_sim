@@ -17,7 +17,7 @@ Assumptions:
 - Signal speed 200'000 km/s -> 5ns/m 
   - Signal delay time 0.1&mu;s for 20m (used in tline)
 
-The CAN transceiver is modelled as two square wave generators. Onne for CAN high and one for CAN low
+The CAN transceiver is modelled as two square wave generators. One for CAN high and one for CAN low
 ![png](LTspice/can_bus_wiring.png)
 
 ### "Good" CAN Bus
